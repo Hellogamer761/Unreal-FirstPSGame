@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealFirstPSGame-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UnrealFirstPSGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGame.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameCharacter.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameGameMode.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameHUD.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameProjectile.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGame.init.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameCharacter.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameGameMode.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameHUD.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UnrealFirstPSGameProjectile.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\Default.rc2.res"
+/OUT:"D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UE4Editor-UnrealFirstPSGame-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealFirstPSGame

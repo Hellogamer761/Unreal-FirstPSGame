@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Somak Unreal Engine Game Projects\\Unreal-FirstPSGame\\Unreal-FirstPSGame\\UnrealFirstPSGame\\Source\\UnrealFirstPSGame\\UnrealFirstPSGame.Build.cs",
+		"D:\\Somak Unreal Engine Game Projects\\Unreal-FirstPSGame\\Unreal-FirstPSGame\\UnrealFirstPSGame\\Source\\UnrealFirstPSGame.Target.cs",
+		"D:\\Somak Unreal Engine Game Projects\\Unreal-FirstPSGame\\Unreal-FirstPSGame\\UnrealFirstPSGame\\Source\\UnrealFirstPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,11 @@
+D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\Definitions.UnrealFirstPSGame.h
+D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Source\UnrealFirstPSGame\UnrealFirstPSGameProjectile.h
+D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealFirstPSGame\UnrealFirstPSGameProjectile.generated.h
+D:\Unreal 4.26\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Unreal 4.26\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Unreal 4.26\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Unreal 4.26\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\Unreal 4.26\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Unreal 4.26\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Unreal 4.26\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Unreal 4.26\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

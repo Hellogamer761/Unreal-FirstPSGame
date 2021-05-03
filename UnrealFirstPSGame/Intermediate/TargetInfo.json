@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealFirstPSGame",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\Unreal-FirstPSGame\\Unreal-FirstPSGame\\UnrealFirstPSGame\\Source\\UnrealFirstPSGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealFirstPSGameEditor",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\Unreal-FirstPSGame\\Unreal-FirstPSGame\\UnrealFirstPSGame\\Source\\UnrealFirstPSGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

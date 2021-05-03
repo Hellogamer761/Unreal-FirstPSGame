@@ -1,0 +1,14 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame).
+  Building UnrealFirstPSGameEditor...
+  Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] UnrealFirstPSGame.init.gen.cpp
+    [2/6] UnrealFirstPSGameHUD.gen.cpp
+    [3/6] UnrealFirstPSGameGameMode.gen.cpp
+    [4/6] UE4Editor-UnrealFirstPSGame-0001.lib
+       Creating library D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UE4Editor-UnrealFirstPSGame-0001.lib and object D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UE4Editor-UnrealFirstPSGame-0001.exp
+    [5/6] UE4Editor-UnrealFirstPSGame-0001.dll
+       Creating library D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UE4Editor-UnrealFirstPSGame-0001.suppressed.lib and object D:\Somak Unreal Engine Game Projects\Unreal-FirstPSGame\Unreal-FirstPSGame\UnrealFirstPSGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealFirstPSGame\UE4Editor-UnrealFirstPSGame-0001.suppressed.exp
+    [6/6] UnrealFirstPSGameEditor.target
+  Total time in Parallel executor: 8.38 seconds
+  Total execution time: 9.47 seconds
